@@ -1,0 +1,77 @@
+.name,
+.email {
+  display:block;
+}
+.support {
+  width: 200px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.yes,
+.no {
+  vertical-align: middle;
+}
+.google {
+  width: 200px;
+  margin-left: 350px;
+  display:block;
+}
+.search {
+  width: 400px;
+  border:none;
+  border-radius: 100px;
+  box-shadow: 1px 1px 5px rgb(84, 84, 84);
+  margin-left: 250px;
+}
+.first-name,
+.last-name {
+  border-radius: 5px;
+  border-width: 1px;
+  padding: 5px 10px;
+  width: 100px;
+  color: gray;
+}
+.email-input {
+  display:block;
+  border-radius: 5px;
+  border-width: 1px;
+  padding: 5px 10px;
+  margin-left: 35px;
+}
+.sign-up {
+  border-radius: 5px;
+  width: 190px;
+  padding: 10px 10px;
+  margin-left: 33px;
+  color:white;
+  background-color: blue;
+  font-size: 15px;
+  font-weight: bold;
+}
+.pickup,
+.destination {
+  display:block;
+  width: 200px;
+  margin-bottom: 10px;
+  padding: 10px 10px;
+  border:none;
+  background-color: rgb(240, 240, 240);
+}
+.request {
+  background-color: black;
+  color: white;
+  padding: 10px 10px;
+  border:none;
+}
+.schedule {
+  background-color: rgb(229, 229, 229);
+  color: black;
+  margin-left: 10px;
+  padding: 10px 10px;
+  border:none;
+}
+.title {
+  font-size:30px;
+  margin-bottom: 10px;
+  font-family: Arial;
+}
